@@ -3,7 +3,7 @@
 <div class="orderRef">O. 110, r. 47</div>
  
 | No. | Items | Fee | Document to be stamped and remarks |
-| 1. | | | [Deleted by S 474/2016 wef 01/10/2016] |
+| 1. | _[Deleted by S 474/2016 wef 01/10/2016]_ | | |
 | 2. | On every request for certified true copies of documents from the Court file. Provided that the fee under this item shall not be collected for transcripts certified by a provider of transcription services authorised by the Court. | $8 per document plus $5 per page | Request. |
 | 3. | On every Request for plain copies of documents from the Court file. | $5 per document plus $0.15 per page | Request. |
 | 4. | On every application to inspect a Court file. | $20 | Request. |
@@ -28,7 +28,7 @@
 | | (b)	at any other time. | $300 | |
 | 14. | For each attempt at service on each person of any process or proceeding required to be served by the Court or Registrar or Sheriff. | $50 | Request. |
 | 15. | Electronic filing charge. For any document to which this Appendix applies that is filed or sent to the Court using the electronic filing service under Order 63A by electronic submission, in addition to any other fee chargeable under these Rules or any other written law.<br>_Note:—_ Where the document is remotely composed on the computer system of the electronic filing service provider, it is deemed to comprise 2 pages. | $4 per document plus $0.80 per page | The filed copy. |
-| 16. | | | [Deleted by S 756/2015 wef 01/01/2016] |
+| 16. | _[Deleted by S 756/2015 wef 01/01/2016]_ | | |
 
 <div class="amendNote">[S 322/2017 wef 01/08/2017]</div>  
 <div class="amendNote">[S 474/2016 wef 01/10/2016]</div>  
