@@ -8,6 +8,7 @@ baseurl: ''
 server_PROD: https://search.opendoc.sg
 server_DEV: https://search-staging.opendoc.sg
 google_analytics:  #----> Optional, Google analytics ID
+preload_pages: false
 order:
   - "1-ORDER 1 - Citation, application, definitions and forms.md"
   - "2-ORDER 2 - Effect of non-compliance.md"
